@@ -1,0 +1,7 @@
+@charset "utf-8";
+body { margin: 0px; padding: 0px;}
+#main{ width:100%; float:left;}
+.wrap{ width:930px; margin:0 auto 0 auto}
+.bt{ width:50%; float:left; border:#eee solid 1px; color:#000; background-color:#FFF; padding:10px 1% 10px 1%; margin:30px 0 0 0; border-radius:5px; }
+.inp{ width:76%; border:none; padding:10px 0 8px 4%; float:left; }
+.btn{width:17%; border:none; background-color:#ff5a00; color:#FFF; font-size:16px; height:35px; float:left;}}
